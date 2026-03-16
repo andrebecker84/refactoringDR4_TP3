@@ -1,0 +1,13 @@
+target/
+*.class
+*.jar
+
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+doc/ENUNCIADO.md
+
+.idea/
+*.iml
+.vscode/
+*.swp
