@@ -11,3 +11,4 @@ doc/ENUNCIADO.md
 *.iml
 .vscode/
 *.swp
+.jqwik-database
