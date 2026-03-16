@@ -16,7 +16,7 @@
 
 # E-Commerce Order Refactoring
 
-## Trabalho Prático 3 — DR4 Refatoração
+## Teste de Performance 3 — DR4 Refatoração
 
 > **Refatoração de sistema legado de pedidos de e-commerce aplicando encapsulamento real, objetos de domínio, Hide Delegate e redistribuição de responsabilidades conforme SRP**
 
